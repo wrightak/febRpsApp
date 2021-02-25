@@ -6,6 +6,6 @@
     "src/"
   ],
   "devDependencies": {
-    "jasmine": "latest"
+    "jest": "latest"
   }
 }
